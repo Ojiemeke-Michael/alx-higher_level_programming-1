@@ -13,8 +13,7 @@ def fizzbuzz():
             print("Fizz", end=" ")
 
         elif i % 5 == 0:
-
-                print("Buzz", end=" ")
+            print("Buzz", end=" ")
 
         else:
 
